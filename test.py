@@ -14,4 +14,4 @@ b = 19
 c = solution.twoSum(a,b)
 print(c)
 
-# 練習 git commit
+# 練習 git commit 132
