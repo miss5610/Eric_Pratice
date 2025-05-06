@@ -13,3 +13,5 @@ a = [15,7,4,9]
 b = 19
 c = solution.twoSum(a,b)
 print(c)
+
+# 練習 git commit
